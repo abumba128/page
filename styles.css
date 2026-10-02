@@ -1,0 +1,83 @@
+body{
+    background-color: gray;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.header{
+    text-align: center;
+}
+
+.avatar{
+    width: 200px;
+}
+
+.header_title{
+    font-size: 28px;
+}
+
+.header_subtitle{
+    color: #200b44;
+}
+main{
+    border: 3px solid rgb(67, 57, 71);
+    text-align: center;
+}
+
+.skils ol{
+    list-style: none;
+}
+
+.hobby ol{
+    list-style: none;
+}
+.separator{
+    width: 50%;
+    height: 3px;
+    background-color: rgb(245, 249, 248);
+}
+.video{
+    width: 400px;
+    height: 420px;
+    border: none;
+}
+.ed_table{
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.ed_table th,
+.ed_table td {
+    border: 2px solid black;
+    padding: 10px;
+}
+.quote{
+    font-size: 32px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.form{
+    width: 500px;
+    margin: 0 auto;
+}
+
+.form_control{
+    width: 100%;
+}
+
+.control_text{
+    width: 70%;
+}
+
+.form_submit{
+    display: block;
+    margin: 0 auto;
+}
+footer{
+    height: 100px;
+    text-align: center;
+    background-color: rgb(110, 110, 101);
+}
+.links{
+    text-decoration: none;
+    
+}
